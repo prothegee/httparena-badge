@@ -26,20 +26,20 @@ Leaderboard: <https://www.http-arena.com/leaderboard/>
 
 ## Badge variants (by scope)
 
-**HttpArena H1:**<br>
+*`HttpArena H1:`*<br>
 ![httparena-badge-h1](httparena-badge-h1.svg)
 
-**HttpArena H2:**<br>
+*`HttpArena H2:`*<br>
 ![httparena-badge-h2](httparena-badge-h2.svg)
 
-**HttpArena H3:**<br>
+*`HttpArena H3:`*<br>
 ![httparena-badge-h1](httparena-badge-h3.svg)
 
-**HttpArena Gateway:**<br>
+*`HttpArena Gateway:`*<br>
 ![httparena-badge-gateway](httparena-badge-gateway.svg)
 
-**HttpArena gRPC:**<br>
+*`HttpArena gRPC:`*<br>
 ![httparena-badge-gRPC](httparena-badge-grpc.svg)
 
-**HttpArena WebSocket:**<br>
+*`HttpArena WebSocket:`*<br>
 ![httparena-badge-websocket](httparena-badge-websocket.svg)
