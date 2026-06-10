@@ -22,7 +22,7 @@ It's a single self-contained SVG — the text is outlined to vector paths (pixel
 </a>
 ```
 
-Leaderboard: <https://www.http-arena.com/leaderboard/>
+Leaderboard: <https://www.http-arena.com/>
 
 ## Badge variants (by scope)
 
